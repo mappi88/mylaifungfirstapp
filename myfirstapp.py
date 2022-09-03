@@ -63,7 +63,7 @@ else:
 
     '...and now we\'re done!'
 Footer
-© 2022 GitHub, Inc.
+2022 GitHub, Inc.
 Footer navigation
 Terms
 Privacy
